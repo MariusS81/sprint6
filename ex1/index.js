@@ -9,5 +9,5 @@ const este_divizibil_cu10 = (numar) => {
   }
   
   
-  console.log(este_divizibil_cu10(100))
+  console.log(este_divizibil_cu10(50))
   console.log(este_divizibil_cu10(23))
